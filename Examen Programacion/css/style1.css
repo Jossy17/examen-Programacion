@@ -1,0 +1,12 @@
+body{
+	background-color: white blue;
+	background-repeat: no-repeat;
+	background-size: 200%;
+
+}
+.h1{
+	font-family: arial;
+	color: blue;
+	position: center;
+	font-size: 100px;
+}
